@@ -1,0 +1,51 @@
+object DataModule2: TDataModule2
+  OldCreateOrder = False
+  Height = 405
+  Width = 574
+  object ADOConnection1: TADOConnection
+    Connected = True
+    ConnectionString = 
+      'Provider=SQLNCLI11.1;Integrated Security="";Persist Security Inf' +
+      'o=False;User ID=sa;Initial Catalog=Hasenova;Data Source=localhos' +
+      't;Initial File Name="";Server SPN=""'
+    LoginPrompt = False
+    Provider = 'SQLNCLI11.1'
+    Left = 144
+    Top = 32
+  end
+  object ADOTable1: TADOTable
+    Active = True
+    Connection = ADOConnection1
+    CursorType = ctStatic
+    TableName = 'CUST'
+    Left = 88
+    Top = 96
+  end
+  object DataSource1: TDataSource
+    DataSet = ADOTable1
+    Left = 88
+    Top = 160
+  end
+  object ADOQuery1: TADOQuery
+    Connection = ADOConnection1
+    Parameters = <>
+    Left = 184
+    Top = 96
+  end
+  object DataSource2: TDataSource
+    DataSet = ADOQuery1
+    Left = 184
+    Top = 160
+  end
+  object ADODataSet1: TADODataSet
+    Connection = ADOConnection1
+    Parameters = <>
+    Left = 272
+    Top = 96
+  end
+  object DataSource3: TDataSource
+    DataSet = ADODataSet1
+    Left = 272
+    Top = 160
+  end
+end

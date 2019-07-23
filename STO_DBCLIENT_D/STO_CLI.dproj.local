@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.147,=C:\Users\Fox\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.545,C:\Users\Fox\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\Fox\Desktop\STO_Client\STO_DBCLIENT_D\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.375,C:\Users\Fox\Desktop\STO_Client\STO_DBCLIENT_D\OKCANCL2.dfm=C:\Users\Fox\Desktop\STO_Client\STO_DBCLIENT_D\About.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.059,C:\Users\Fox\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Fox\Desktop\STO_Client\STO_DBCLIENT_D\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.545,C:\Users\Fox\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\Fox\Desktop\STO_Client\STO_DBCLIENT_D\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.379,=C:\Users\Fox\Desktop\STO_Client\STO_DBCLIENT_D\OKCANCL2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.375,C:\Users\Fox\Desktop\STO_Client\STO_DBCLIENT_D\OKCANCL2.pas=C:\Users\Fox\Desktop\STO_Client\STO_DBCLIENT_D\About.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.295,C:\Users\Fox\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Fox\Desktop\STO_Client\STO_DBCLIENT_D\STO_CLI.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.288,=C:\Users\Fox\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.059,C:\Users\Fox\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Fox\Desktop\STO_Client\STO_DBCLIENT_D\Unit1.pas</Transaction>
+    <Transaction>2017.05.10 08:18:16.602,=C:\Users\FoxLab\Desktop\STO_Client\STO_DBCLIENT_D\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
